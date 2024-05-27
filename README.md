@@ -23,7 +23,7 @@
 # How To Deploy
 
 ### For first time only !
-- `git clone https://github.com/refactorian/laravel-docker.git`
+- `git clone git@github.com:UTU-ITS/Laravel-Docker.git`
 - `cd Laravel-Docker`
 - `docker compose up -d --build`
 - `docker compose exec php bash`
